@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425083541488",
+    "project_id": "bissalama-da0cb",
+    "storage_bucket": "bissalama-da0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425083541488:android:daf8c986ef678919bf6f35",
+        "android_client_info": {
+          "package_name": "com.example.bissalama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425083541488-m1525mp46hhaurlb51imnbhg34v9mtib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxfa6WLxc38qD4x1pjPZPrcsCk2rOB7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425083541488-m1525mp46hhaurlb51imnbhg34v9mtib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
